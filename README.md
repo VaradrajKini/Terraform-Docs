@@ -4,6 +4,8 @@
 > Content, Notes and resources that I have collected on Terraform.
 > These notes will be used for refrence.
 
+> Terraform creates and manages resources on cloud platforms and other services through their application programming interfaces (APIs). It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+
 
 ## Table of Contents
 - [Introduction](#Introduction)
