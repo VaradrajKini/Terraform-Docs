@@ -24,8 +24,8 @@ Terraform creates and manages resources on cloud platforms and other services th
 
 ## Blog Posts
 
-> Yevgeniy Brikman blog posts(https://medium.com/@brikis98)
+> [Yevgeniy Brikman blog posts](https://medium.com/@brikis98)
 
 ## Books
 
-> Terraform In Action (https://www.manning.com/books/terraform-in-action)
+> [Terraform In Action](https://www.manning.com/books/terraform-in-action)
