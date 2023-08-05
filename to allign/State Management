@@ -1,1 +1,0 @@
-Understand how Terraform manages state files. State files keep track of the resources provisioned by Terraform and are critical for ensuring consistency and managing changes.

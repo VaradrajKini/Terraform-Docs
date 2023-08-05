@@ -14,7 +14,6 @@ Terraform creates and manages resources on cloud platforms and other services th
 
 ## Introduction
 
-## infrastructure as Code
 
 ## Terraform Official Resources
 
