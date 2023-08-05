@@ -1,0 +1,1 @@
+Terraform supports multiple cloud providers like AWS, Azure, Google Cloud, and others. Try working with different providers to understand how Terraform manages resources on each platform.
